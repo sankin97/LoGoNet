@@ -1,7 +1,7 @@
 # LoGoNet
 [CVPR2023] LoGoNet: Towards Accurate 3D Object Detection with Local-to-Global Cross-Modal Fusion
 
-Code will be released at [https://github.com/PJLab-ADG/LoGoNet](https://github.com/PJLab-ADG/LoGoNet)
+Code is released at [https://github.com/PJLab-ADG/LoGoNet](https://github.com/PJLab-ADG/LoGoNet).
 
 
 ## Citation
